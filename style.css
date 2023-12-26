@@ -31,7 +31,9 @@
   mix-blend-mode: multiply;
 }
 p {
+  font-size: 19px;
+}
+p1 {
   font-size: 9px;
-
-  margin-top: 8em;
+  margin: 8em;
 }
