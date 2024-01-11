@@ -45,7 +45,9 @@ p1 {
   background colour: black;
   font-size: 19px;
 }
-header{
-  font-size: 30px
-
+header {
+        background: black;
+        color: white;
+        text-align: center;
+        padding: 20px;
 }
