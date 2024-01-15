@@ -51,3 +51,7 @@ header {
         text-align: center;
         padding: 20px;
 }
+br{
+  background: white;
+  height:1px;
+}
